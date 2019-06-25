@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HelpMe</string>
+    <string name="helpme">Help Me!!!</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="applogo">App Logo</string>
+    <string name="edittext_hint"><font size="15">Please enter your problem (max: 250 words)</font></string>
+
+
+    <string name="menu">Menu</string>
+    <string name="babycare">Baby Care</string>
+    <string name="medical">Medical</string>
+    <string name="food">Food</string>
+    <string name="water">Water</string>
+
+    <string name="name"><font size="12">Name</font></string>
+    <string name="mobileno"><font size="12">Mobile No</font></string>
+    <string name="address"><font size="12">Address</font></string>
+
+
+</resources>
